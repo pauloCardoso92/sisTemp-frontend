@@ -1,0 +1,21 @@
+{
+  "name": "sisTemp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Paulo Cardoso"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
